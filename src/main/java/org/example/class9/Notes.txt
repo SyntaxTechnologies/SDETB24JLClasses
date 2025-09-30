@@ -1,0 +1,6 @@
+1)If else
+2)loops
+3)1D arrays
+4)classes and objects
+5)methods
+6)String class methods.

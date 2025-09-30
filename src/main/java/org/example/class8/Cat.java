@@ -7,6 +7,20 @@ public class Cat {
     double weight;
 
     static boolean hasTail;
+    Cat(String catName,String catColor,int catAge,double catWeight){
+       name=catName;
+       color=catColor;
+       age=catAge;
+       weight=catWeight;
+    }
+
+    Cat(String catName,String catColor,int catAge){
+        name=catName;
+        color=catColor;
+        age=catAge;
+
+    }
+
 
     void printName(){
         System.out.println(name);
