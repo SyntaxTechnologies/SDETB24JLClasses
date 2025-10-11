@@ -1,0 +1,9 @@
+These are the things that you will use heavily on your jobs
+if else
+loops
+arrays(only 1d)
+classes
+methods(how to create a method how to call a method etc)
+String methods
+ArrayList
+maps
